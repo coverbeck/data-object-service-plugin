@@ -6,7 +6,7 @@
     <artifactId>dockstore-file-dos-plugin</artifactId>
     <packaging>jar</packaging>
     <name>dockstore-file-dos-plugin</name>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.4</version>
 
 
     <properties>
@@ -24,7 +24,7 @@
         <connection>${github.url}</connection>
         <developerConnection>${github.url}</developerConnection>
         <url>${github.url}</url>
-        <tag>0.0.1</tag>
+        <tag>0.0.4</tag>
     </scm>
 
 
